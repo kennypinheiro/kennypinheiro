@@ -41,8 +41,6 @@ Aqui estão as ferramentas e linguagens que utilizo para transformar dados e fun
 
 Seja para discutir sequências de DNA, ponteiros em C ou a beleza de uma equação matemática, sinta-se à vontade para se conectar:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kennypinheiro)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kennypinheiro)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mol3cul4rna)
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kennybiotec@gmail.com)
