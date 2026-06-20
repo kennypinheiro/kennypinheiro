@@ -10,7 +10,7 @@
 
 ### 🧬 About Me
 
-Sou um entusiasta da ciência computacional guiado pela lógica e pelos padrões da natureza. Busco aplicar a matemática discreta, a programação estruturada e a análise de dados para decifrar a complexidade do mundo ao nosso redor.
+Sou um entusiasta da Ciência da Computação guiado pela lógica e pelos padrões da natureza. Busco aplicar a matemática discreta, a programação estruturada e a análise de dados para decifrar a complexidade do mundo ao nosso redor.
 
 * 🔬 **Interesses:** Bioinformática, Algoritmos em C, Modelagem Matemática e Ciência de Dados.
 * 📚 **No momento:** Aprofundando em estruturas de dados, lógica de programação e fundamentos de computação.
