@@ -14,7 +14,7 @@ Sou um entusiasta da Ciência da Computação guiado pela lógica e pelos padrõ
 
 * 🔬 **Interesses:** Bioinformática, Algoritmos em C, Modelagem Matemática e Ciência de Dados.
 * 📚 **No momento:** Aprofundando em estruturas de dados, lógica de programação e fundamentos de computação.
-* ⚙️ **Filosofia de código:** Código limpo, otimizado e bem documentado.
+* ⚙️ **Filosofia de código:** ⚙️ Código limpo, estruturado e focado na exploração de modelos matemáticos.
 
 ---
 
