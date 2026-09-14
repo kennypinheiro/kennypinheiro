@@ -10,36 +10,36 @@
 
 ### 🧬 About Me
 
-Sou um entusiasta da Ciência da Computação guiado pela lógica e pelos padrões da natureza. Busco aplicar a matemática discreta, a programação estruturada e a análise de dados para decifrar a complexidade do mundo ao nosso redor.
+I am a Computer Science enthusiast driven by logic and the patterns of nature. I seek to apply discrete mathematics, structured programming, and data analysis to decipher the complexity of the world around us.
 
-* 🔬 **Interesses:** Bioinformática, Algoritmos em C, Modelagem Matemática e Ciência de Dados.
-* 📚 **No momento:** Aprofundando em estruturas de dados, lógica de programação e fundamentos de computação.
-* ⚙️ **Filosofia de código:** ⚙️ Código limpo, estruturado e focado na exploração de modelos matemáticos.
+🔬 Interests: Bioinformatics, Algorithms in C, Mathematical Modeling, and Data Science.
+📚 Currently: Deepening my knowledge in data structures, programming logic, and the fundamentals of computing.
+⚙️ Code Philosophy: Clean, structured code focused on exploring mathematical models.
 
 ---
 
 ### 🛠️ Toolbox (Tech & Tools)
 
-Aqui estão as ferramentas e linguagens que utilizo para transformar dados e funções em soluções:
+Here are the tools and languages I use to turn data and functions into solutions:
 
-| Área | Tecnologias |
+| Category | Technologies |
 | :--- | :--- |
-| **Linguagens** | `C` · `Python` · `LaTeX` |
-| **Ambiente/OS** | `Linux` · `GCC` · `Git` · `VS Code` |
-| **Conceitos** | `Discrete Mathematics` · `Data Structures` · `Algorithms` |
+| **Programming Languages** | `C` · `Python` · `LaTeX` |
+| **Environment/OS** | `Linux` · `GCC` · `Git` · `VS Code` |
+| **Concepts** | `Discrete Mathematics` · `Data Structures` · `Algorithms` |
 
 ---
 
 ### 📈 My Trails
 
-* 📁 [**Estudos em Linguagem C**](https://github.com/kennypinheiro/C_programming_language): Resolução de exercícios e conceitos (Em construção).
-* 🧮 [**Matemática & Algoritmos**](https://github.com/kennypinheiro/math_and_algorithms): (Em construção).
+* 📁 [**Introduction to C**](https://github.com/kennypinheiro/C_programming_language): Exercise solutions and concepts (Work in progress).
+* 🧮 [**Math & Algorithms**](https://github.com/kennypinheiro/math_and_algorithms): (Work in progress).
 
 ---
 
 ### 📬 Connect with me
 
-Seja para discutir sequências de DNA, ponteiros em C ou a beleza de uma equação matemática, sinta-se à vontade para se conectar:
+Whether to discuss DNA sequences, C pointers, or the beauty of a mathematical equation, feel free to connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kennypinheiro)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pinheiro_kenny)
