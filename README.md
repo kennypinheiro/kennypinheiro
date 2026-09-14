@@ -32,8 +32,8 @@ Aqui estão as ferramentas e linguagens que utilizo para transformar dados e fun
 
 ### 📈 My Trails
 
-* 📁 [**Estudos em Linguagem C**](https://github.com/kennypinheiro/C_programming_language): Resolução de exercícios, conceitos core e gerenciamento de memória.
-* 🧮 [**Matemática & Algoritmos**](link-se-houver): Demonstrações e implementações de lógica discreta.
+* 📁 [**Estudos em Linguagem C**](https://github.com/kennypinheiro/C_programming_language): Resolução de exercícios e conceitos (Em construção).
+* 🧮 [**Matemática & Algoritmos**](https://github.com/kennypinheiro/math_and_algorithms): (Em construção).
 
 ---
 
