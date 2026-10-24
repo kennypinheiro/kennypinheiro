@@ -24,16 +24,13 @@ Here are the tools and languages I use to turn data and functions into solutions
 
 | Category | Technologies |
 | :--- | :--- |
-| **Programming Languages** | `C` · `Python` · `LaTeX` |
+| **Programming Languages** | `C` · `Python` · `Shell Script` |
 | **Environment/OS** | `Linux` · `GCC` · `Git` · `VS Code` |
 | **Concepts** | `Discrete Mathematics` · `Data Structures` · `Algorithms` |
 
 ---
 
-### 📈 My Trails
-
-* 📁 [**Introduction to C**](https://github.com/kennypinheiro/C_programming_language): Exercise solutions and concepts (Work in progress).
-* 🧮 [**Math & Algorithms**](https://github.com/kennypinheiro/math_and_algorithms): (Work in progress).
+Work in progress...
 
 ---
 
