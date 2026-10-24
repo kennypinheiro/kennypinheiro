@@ -14,7 +14,7 @@ I am a Computer Science enthusiast driven by logic and the patterns of nature. I
 
 🔬 Interests: Bioinformatics, Algorithms in C, Mathematical Modeling, and Data Science.
 
-📚 Currently: Deepening my knowledge in computer networks, programming logic, and the fundamentals of computing.
+📚 Currently: Deepening my knowledge in Computer Networks, Programming logic, and the Fundamentals of computing.
 
 ⚙️ Code Philosophy: Clean, structured code focused on exploring mathematical models.
 
