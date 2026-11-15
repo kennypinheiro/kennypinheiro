@@ -1,44 +1,43 @@
-# 👋 Hello, World! I'm [Kenny Pinheiro] aka `mol3cul4RNA`
+# 👋 Olá, Mundo! Eu sou [Kenny Pinheiro], também conhecido como `mol3cul4RNA`
 
 <br />
 
-> ### **"Seeking to understand life through data and nature through functions. Between nucleotide sequences and lines of code, I follow the mathematical trail."**
+> ### **"Buscando compreender a vida através dos dados e a natureza por meio de funções. Entre sequências de nucleotídeos e linhas de código, sigo o rastro matemático."**
 
 <br />
 
 ---
 
-### 🧬 About Me
+### 🧬 Sobre Mim
 
-I am a Computer Science enthusiast driven by logic and the patterns of nature. I seek to apply discrete mathematics, structured programming, and data analysis to decipher the complexity of the world around us.
+Sou um entusiasta da Ciência da Computação impulsionado pela lógica e pelos padrões da natureza. Busco aplicar a matemática discreta, a programação estruturada e a análise de dados para decifrar a complexidade do mundo ao nosso redor.
 
-🔬 Interests: Bioinformatics, Algorithms in C, Mathematical Modeling, and Data Science.
+🔬 Interesses: Bioinformática, Algoritmos em C, Modelagem Matemática e Ciência de Dados.
 
-📚 Currently: Deepening my knowledge in Computer Networks, Programming logic, and the Fundamentals of computing.
+📚 Atualmente: Aprofundando meus conhecimentos em Redes de Computadores, Lógica de Programação e Fundamentos da Computação.
 
-⚙️ Code Philosophy: Clean, structured code focused on exploring mathematical models.
+⚙️ Filosofia de Código: Código limpo e estruturado, focado na exploração de modelos matemáticos.
 
 ---
 
-### 🛠️ Toolbox (Tech & Tools)
+### 🛠️ Caixa de Ferramentas (Tecnologias e Ferramentas)
 
-Here are the tools and languages I use to turn data and functions into solutions:
+Aqui estão as ferramentas e linguagens que utilizo para transformar dados e funções em soluções:
 
-| Category | Technologies |
+| Categoria | Tecnologias |
 | :--- | :--- |
-| **Programming Languages** | `C` · `Python` · `Shell Script` |
-| **Environment/OS** | `Linux` · `GCC` · `Git` · `VS Code` |
-| **Concepts** | `Discrete Mathematics` · `Data Structures` · `Algorithms` |
+| **Linguagens de Programação** | `C` · `Python` · `Shell Script` |
+| **Ambiente/SO** | `Linux` · `GCC` · `Git` · `VS Code` |
+| **Conceitos** | `Matemática Discreta` · `Estruturas de Dados` · `Algoritmos` |
 
 ---
 
-Work in progress...
-
+Trabalho em andamento...
 ---
 
-### 📬 Connect with me
+### 📬 Conecte-se comigo
 
-Whether to discuss DNA sequences, C pointers, or the beauty of a mathematical equation, feel free to connect:
+Seja para discutir sequências de DNA, ponteiros em C ou a beleza de uma equação matemática, sinta-se à vontade para entrar em contato:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kennypinheiro)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pinheiro_kenny)
