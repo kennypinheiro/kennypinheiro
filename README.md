@@ -35,6 +35,9 @@ Aqui estão as ferramentas e linguagens que utilizo para transformar dados e fun
 Trabalho em andamento...
 ---
 
+
+> *Nota: Parte da estruturação e refinamento textual deste documento foi auxiliada pelo Google Gemini.*
+
 ### 📬 Conecte-se comigo
 
 Seja para discutir sequências de DNA, ponteiros em C ou a beleza de uma equação matemática, sinta-se à vontade para entrar em contato:
