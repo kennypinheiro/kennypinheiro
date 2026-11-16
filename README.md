@@ -35,9 +35,6 @@ Aqui estão as ferramentas e linguagens que utilizo para transformar dados e fun
 Trabalho em andamento...
 ---
 
-
-> *Nota: Parte da estruturação e refinamento textual deste documento foi auxiliada pelo Google Gemini.*
-
 ### 📬 Conecte-se comigo
 
 Seja para discutir sequências de DNA, ponteiros em C ou a beleza de uma equação matemática, sinta-se à vontade para entrar em contato:
@@ -45,3 +42,6 @@ Seja para discutir sequências de DNA, ponteiros em C ou a beleza de uma equaç�
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kennypinheiro)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pinheiro_kenny)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kennybiotec@gmail.com)
+
+
+> *Nota: Parte da estruturação e refinamento textual deste documento foi auxiliada pelo Google Gemini.*
