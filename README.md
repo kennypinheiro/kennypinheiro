@@ -2,7 +2,7 @@
 
 <br />
 
-> ### **"Buscando compreender a vida através dos dados e a natureza por meio de funções. Entre sequências de nucleotídeos e linhas de código, sigo o rastro matemático."**
+> ### **"Buscando compreender a vida através dos dados e a natureza por meio de funções. Entre sequências de nucleotídeos e linhas de código, sigo a trilha matemática."**
 
 <br />
 
@@ -32,7 +32,12 @@ Aqui estão as ferramentas e linguagens que utilizo para transformar dados e fun
 
 ---
 
-Trabalho em andamento...
+### 📈 Trilhas
+
+* 📁 [**Introdução à linguagem C**](https://github.com/kennypinheiro/linguagem_C): Conceitos e exercícios. (Em andamento...).
+* 🧮 [**Matemática & Algoritmos**](https://github.com/kennypinheiro/matematica-e-algoritmos-c): Matemática Discreta e exercícios. (Em andamento...)
+
+
 ---
 
 ### 📬 Conecte-se comigo
