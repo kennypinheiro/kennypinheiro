@@ -8,7 +8,7 @@
 
 ---
 
-### 🧬 Sobre Mim
+### 🧬 Minha Jornada
 
 Sou um entusiasta da Ciência da Computação impulsionado pela lógica e pelos padrões da natureza. Busco aplicar a matemática discreta, a programação estruturada e a análise de dados para decifrar a complexidade do mundo ao nosso redor.
 
