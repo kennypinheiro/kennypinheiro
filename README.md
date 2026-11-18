@@ -35,7 +35,7 @@ Aqui estão as ferramentas e linguagens que utilizo para transformar dados e fun
 ### 📈 Trilhas
 
 * 📁 [**Introdução à linguagem C**](https://github.com/kennypinheiro/linguagem_C): Conceitos e exercícios. (Em andamento...).
-* 🧮 [**Matemática & Algoritmos**](https://github.com/kennypinheiro/matematica-e-algoritmos-c): Matemática Discreta e exercícios. (Em andamento...)
+* 🧮 [**Matemática & Algoritmos em C**](https://github.com/kennypinheiro/matematica-e-algoritmos-c): Matemática Discreta e exercícios. (Em andamento...)
 
 
 ---
